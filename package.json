@@ -1,0 +1,6 @@
+{
+  "name": "wave-image",
+  "version": "1.0.0",
+  "main": "example/wave-image.js",
+  "license": "MIT"
+}
